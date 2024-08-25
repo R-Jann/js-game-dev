@@ -75,6 +75,7 @@ hr{
 
 /*ID (#)*/
 #board{
+
 	width: 400px;
 	height: 400px;
 	background-color: #effaff;
@@ -280,8 +281,8 @@ footer{
 
 	.tile{
 		.box-sizing: border-box;
-		width: 25%;
-		height: 25%;
+		width: 22.3%;
+		height: 22.3%;
 	}
 
 	h1{
